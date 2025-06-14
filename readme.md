@@ -149,7 +149,7 @@ A potential solution: https://github.com/pytorch/pytorch/issues/1637#issuecommen
 
 ## Contact and Cite
 If you are interested in our work and recognize our contributions, please cite it!   
-Also, please do not hesitate to [email me]((mailto:fw2359@columbia.edu)) (*fw2359@columbia.edu*) immediately if you have any sort of questions or 
+Also, please do not hesitate to [email me]((mailto:fangwu97@stanford.edu)) (*fangwu97@stanford.edu*) immediately if you have any sort of questions or 
 fancy points that deserve further communication. 
 ```markdown
 article{wu2022pre,
