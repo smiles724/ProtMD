@@ -152,11 +152,15 @@ If you are interested in our work and recognize our contributions, please cite i
 Also, please do not hesitate to [email me]((mailto:fw2359@columbia.edu)) (*fw2359@columbia.edu*) immediately if you have any sort of questions or 
 fancy points that deserve further communication. 
 ```markdown
-@article{wu2022pre,
-  title={Pre-training of Deep Protein Models with Molecular Dynamics Simulations for Drug Binding},
-  author={Wu, Fang and Zhang, Qiang and Radev, Dragomir and Wang, Yuyang and Jin, Xurui and Jiang, Yinghui and Niu, Zhangming and Li, Stan Z},
-  journal={arXiv preprint arXiv:2204.08663},
-  year={2022}
+article{wu2022pre,
+  title={Pre-Training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding},
+  author={Wu, Fang and Jin, Shuting and Jiang, Yinghui and Jin, Xurui and Tang, Bowen and Niu, Zhangming and Liu, Xiangrong and Zhang, Qiang and Zeng, Xiangxiang and Li, Stan Z},
+  journal={Advanced Science},
+  volume={9},
+  number={33},
+  pages={2203796},
+  year={2022},
+  publisher={Wiley Online Library}
 }
 ```
 ## References
